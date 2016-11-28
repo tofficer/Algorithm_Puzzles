@@ -13,8 +13,6 @@ public class Solution {
             buy1 = Math.min(buy1, prices[i]);
         }
         
-        return sell2;
-        
-        
+        return sell2;       
     }
 }
